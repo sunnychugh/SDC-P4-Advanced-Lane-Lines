@@ -1,4 +1,4 @@
-# SDC-P1-Advanced-Lane-Lines
+# SDC-P4-Advanced-Lane-Lines
 
 Details for project are given in writeup_report_project_4.pdf
 
