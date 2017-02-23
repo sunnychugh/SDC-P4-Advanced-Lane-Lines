@@ -2,7 +2,7 @@
 
 Details for project are given in writeup_report_project_4.pdf
 
-Youtube links of videos--
+Youtube links of videos solutions--
 
 Project Video Solution-
 https://www.youtube.com/watch?v=o926N4CAUSs
