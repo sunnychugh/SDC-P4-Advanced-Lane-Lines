@@ -2,7 +2,7 @@
 
 Details for project are given in writeup_report_project_4.pdf
 
-Main Code file -  project4-advancedLaneLines-4-final.ipynb
+Main Code file ->     project4-advancedLaneLines-4-final.ipynb
 
 Youtube links of videos solutions--
 
